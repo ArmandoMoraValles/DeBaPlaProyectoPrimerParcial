@@ -1,0 +1,2 @@
+[Modelo en V] El Modelo en V es un enfoque que organiza el desarrollo de software en una estructura en forma de V, donde cada fase de desarrollo tiene una fase de prueba correspondiente
+[Fases del Modelo en V] Las fases del Modelo en V incluyen Requisitos, Diseño de Alto Nivel, Diseño de Detalle, Implementación, Pruebas de Unidad, Pruebas de Integración, Pruebas de Sistema, Pruebas de Aceptación y Mantenimiento, con una fase de prueba correspondiente para cada fase de desarrollo
